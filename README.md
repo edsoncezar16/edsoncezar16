@@ -16,11 +16,6 @@ visualização dos dados, até a aplicação/desenvolvimento de algoritmos de Ma
 
 # Projetos
 
-- [Sh4ck: a credit card fraud detection system](../../../credit_card_fraud_detection/)(em andamento): neste projeto, atuo como um cientista de dados 
+- [Sh4ck: a credit card fraud detection system](../../../credit_card_fraud_detection/) (em andamento): neste projeto, atuo como um cientista de dados 
 vinculado a uma instituição financeira para desenvolver um sistema de detecção de fraudes em transações de cartões de crédito, desde a etapa de 
 processamento dos dados em tempo real até o deploy e monitoramento do modelo de ML em produção.
-
-<!---
-edsoncezar16/edsoncezar16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

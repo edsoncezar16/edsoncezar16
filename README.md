@@ -19,3 +19,4 @@ visualização dos dados, até a aplicação/desenvolvimento de algoritmos de Ma
 - [Sh4ck: a credit card fraud detection system](../../../credit_card_fraud_detection/) (em andamento): neste projeto, atuo como um cientista de dados 
 vinculado a uma instituição financeira para desenvolver um sistema de detecção de fraudes em transações de cartões de crédito, desde a etapa de 
 processamento dos dados em tempo real até o deploy e monitoramento do modelo de ML em produção.
+  - Ferramentas: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Jupyter Notebook, VS Code, Git.

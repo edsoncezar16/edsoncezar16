@@ -1,7 +1,7 @@
 # Sobre 
 Olá, meu nome é Edson Nogueira.
 
-Trabalhei como Professor Substituto na UFPA entre 2018 e 2020, onde lecionei diversas disciplinas de Física e uma de Cálculo em nível de graduação. Estou 
+Trabalhei como Professor Substituto na UFPA entre 2018 e 2020, onde lecionei 21 disciplinas de Física e 1 de Cálculo em nível de graduação. Estou 
 cursando Doutorado em Física na UFPA, com previsão de término para outubro de 2022, tendo minha pesquisa resultado na publicação, até o momento, de 3 
 artigos científicos.
 

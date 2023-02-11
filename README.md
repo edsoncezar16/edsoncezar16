@@ -3,11 +3,9 @@ Olá, meu nome é Edson Nogueira.
 
 Trabalhei como Professor Substituto na UFPA entre 2018 e 2020 e, atualmente, estou cursando Doutorado em Física na UFPA e atuando como Monitor de Pós-graduação no Projeto Newton, junto ao NITAE-UFPA.
 
-Estou buscando uma transição de carreira para a área de Ciência de Dados e correlatas. Venho buscando me aperfeiçoar na área através de bootcamps da XPE, além da formação em Python e dados da Lets Code by Ada em parceria com a Suzano pelo programa Diversidade Tech.
+Estou buscando uma transição de carreira para a área de Ciência de Dados e correlatas. Venho buscando me aperfeiçoar na área através da realizaçao de projetos de dados, de uma graduaçao em bacharelado em Ciência de Dados pela XPE, além de ter concluído a formação Diversidade Tech ofertada pela Ada em parceria com a Suzano.
 
-Ao longo dessas formações complementares, tenho aprendido os conceitos teóricos fundamentais da área de dados e a desenvolver projetos indepentes que demonstrem habilidades com ferramentas em alta demanda pelo mercado, como Python, SQL, Spark, PowerBI, ambientes Cloud (AWS, Azure, GCP).
-
-Assim, tenho me capacitado a resolver problemas de negócio em qualquer ponto da pipeline de dados, desde a coleta, armazenamento, processamento, análise e visualização dos dados, até a aplicação/desenvolvimento de algoritmos de Machine Learning, deploy e monitoramento dos modelos em produção.
+Ao longo dessas formações complementares, tenho aprendido os conceitos teóricos fundamentais da área de dados e a desenvolver projetos indepentes que demonstrem habilidades na resolução de problemas de negócio em qualquer ponto da pipeline de dados, desde a coleta, armazenamento, processamento, análise e visualização dos dados, até a aplicação/desenvolvimento de algoritmos de Machine Learning, deploy e monitoramento dos modelos em produção. Tudo isso utilizando ferramentas em alta demanda pelo mercao como Python, SQL, Spark, PowerBI, ambientes Cloud (AWS, Azure, GCP) e Docker.
 
 # Projetos
 - [Par ou ímpar](../../../par_ou_impar/): neste projeto, faço uma análise de argumentos apresentados em uma enquete postada recentemente no Linkedin sobre quem tem mais chances de ganhar no par ou ímpar. Assim, uso a minha experiência acadêmica, com forte ênfase em raciocínio analítico e domínio dos conceitos fundamentais da estatística, e minhas habilidades de programação com a linguagem Python para contribuir com a melhoria da qualidade do raciocínio probabilístico na comunidade de Ciência de Dados, ou mesmo do público geral.

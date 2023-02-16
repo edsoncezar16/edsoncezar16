@@ -17,6 +17,9 @@ Ao longo dessas formações complementares, tenho aprendido os conceitos teóric
 
 - [Indicium Code Challenge](../../../code-challenge-indicium/): We are going to provide 2 data sources, a Postgres database and a CSV file. Your mission is to build a pipeline that extracts the data everyday from both sources and write the data first to local disk, and second to a database of your choice. The final goal is to be able to run a query that shows the orders and its details.
   - Ferramentas: Python (Pandas, SQLAlchemy), PostgreSQL, Docker, VS Code, Git.
+ 
+- [Reverse Scanner](../../../reverse-scanner/): Development of a program that scans physical files with tables, pushes the data to a Postgres DB, and generates an excel file with the data. .
+  - Ferramentas: Computer Vision (pytesseract), Python (Pandas, SQLAlchemy, Tabula-py), PostgreSQL, Docker, VS Code, Git.
   
 - [Sh4ck: a credit card fraud detection system](../../../credit_card_fraud_detection/) (em andamento): neste projeto, atuo como um cientista de dados 
 vinculado a uma instituição financeira para desenvolver um sistema de detecção de fraudes em transações de cartões de crédito, desde a etapa de 

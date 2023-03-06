@@ -1,7 +1,7 @@
 # Sobre 
 Olá, meu nome é Edson Nogueira.
 
-Atualmente, sou Data Engineering Intern na Indicium e curso bacharelado em Ciência de Dados pela XP Educação.
+Atualmente, sou Data Engineering Intern na Indicium e curso bacharelado em Ciência de Dados pela XP Educação. Minha formação prévia é Doutorado em Física.
 
 Tenho experiência na  criação e manutenção de pipeline de dados para serem consumidos em APIs, utilização de APIs para ingestão de dados em processos de ELT, monitoramento de processos ELTs através de métricas como SLA, tanto hospedados na nuvem quanto on-premises. Conjuntamente com essas habilidades, adquiri proficiência nas tecnologias SQL, Python, Spark, Docker, Bash e Cloud.
 

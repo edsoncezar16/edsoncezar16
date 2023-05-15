@@ -1,19 +1,7 @@
 # About 
 
-I am a Data Engineer from Belém, Pará, Brazil, with a strong background in Physics (Ph.D. from the Federal University of Pará) and a passion for data engineering. I am currently honing my skills as a Data Engineering Intern at Indicium.
+I am a highly motivated Data Engineer from Belém, Pará, Brazil, with a strong academic background in Physics (Ph.D.) from the Federal University of Pará. I'm currently expanding my knowledge in the field of Data Science through a B.Sc. program at XP Education.
 
-My experience includes designing and implementing data pipelines, working with data warehousing and ELT processes, utilizing big data technologies such as Spark, and leveraging cloud computing platforms like Azure. I am proficient in data integration and processing using SQL, Python, Airflow, and Meltano.
+I bring a unique perspective to data engineering, combining strong problem-solving and analytical skills with excellent communication and teamwork abilities. Currently, I am working as a Data Engineering Intern at Indicium, where I develop and maintain efficient ELT processes using SQL, Python, Airflow, Meltano, Docker, and Cloud Computing. My experience includes creating and maintaining data pipelines for critical applications and utilizing APIs for data ingestion in ELT processes.
 
-As a data engineer, I am known for my strong problem-solving and analytical skills, as well as my excellent communication and teamwork abilities. My recent projects showcase my ability to work with a diverse set of technologies and tools.
-
-In my current role at Indicium, I have been responsible for developing and maintaining efficient ELT processes, creating and managing data pipelines, utilizing APIs for data ingestion, and monitoring ELT processes. I have also contributed to modernizing the company's tech stack by adopting the Meltano pipeline management tool.
-
-Please feel free to connect with me to discuss opportunities or simply to share insights on data engineering. I am excited to continue learning, growing, and making a positive impact in the data engineering field.
-
-GitHub: https://github.com/edsoncezar16
-Email: edsoncezar16@gmail.com
-
-# Projects
-
-- [Indicium Tech Code Challenge](../../../code-challenge-indicium/): Indicium code challenge for Software Developers focusing on data projects.
-  - Technologies used: SQL, Python, Docker, Airflow, Meltano
+One of my key projects is tap-totango (https://pypi.org/project/tap-totango), a Singer tap for the Totango API, built using the Meltano Singer SDK with Python. My dedication to continuous learning and improvement drives me to stay up-to-date with the latest industry trends and technologies, making me a valuable asset to any data-driven team.

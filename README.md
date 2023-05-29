@@ -1,7 +1,13 @@
 # About 
 
-I am a highly motivated Data Engineer from Belém, Pará, Brazil, with a strong academic background in Physics (Ph.D.) from the Federal University of Pará. I'm currently expanding my knowledge in the field of Data Science through a B.Sc. program at XP Education.
+Hello! I'm Edson Cezar Moraes Nogueira, a highly motivated Data Engineer based in Belém - Pará - Brazil. I recently completed my Ph.D. in Physics from the Federal University of Pará, which has complemented my technical skills with a solid analytical mindset.
 
-I bring a unique perspective to data engineering, combining strong problem-solving and analytical skills with excellent communication and teamwork abilities. Currently, I am working as a Data Engineering Intern at Indicium, where I develop and maintain efficient ELT processes using SQL, Python, Airflow, Meltano, Docker, and Cloud Computing. My experience includes creating and maintaining data pipelines for critical applications and utilizing APIs for data ingestion in ELT processes.
+In my current role at Indicium as a Junior Data Engineer, I leverage my expertise in Data Warehousing, ELT, and Big Data Technologies, including Spark, to develop and maintain efficient ELT processes. In addition, I am proficient in Cloud Computing, using platforms such as Azure, AWS, and Google.
 
-One of my key projects is tap-totango (https://pypi.org/project/tap-totango), a Singer tap for the Totango API, built using the Meltano Singer SDK with Python. My dedication to continuous learning and improvement drives me to stay up-to-date with the latest industry trends and technologies, making me a valuable asset to any data-driven team.
+I work with a variety of tools for data integration and processing, including SQL, Python, Airflow, Meltano, and Docker. One of my notable contributions at Indicium includes adding value to the Meltano base project by implementing benchmark tests and developing custom extractors, all with the aim of modernizing our tech stack.
+
+Before this, I had the opportunity to intern at the same company, where I began my journey of exploring ELT processes and contributing to the Meltano project through writing documentation.
+
+Furthermore, my skills extend to open-source projects, as exemplified by my work on "tap-totango", a Singer tap for the Totango API, built using the Meltano Singer SDK and Python.
+
+With strong problem-solving capabilities, excellent communication skills, and the ability to work effectively within a team, I am passionate about exploring new technologies and finding innovative solutions to complex data challenges.

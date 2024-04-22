@@ -1,7 +1,25 @@
 # About 
 
-I'm Edson Cezar Moraes Nogueira, a forward-thinking Data Engineer based in Belém, Pará, Brazil. With a Ph.D. in Physics from the Federal University of Pará and relevant industry experience, I blend analytical rigor with advanced technical skills in the realm of data engineering.
+I'm Edson Cezar Moraes Nogueira, a  Data Engineer based in Belém, Pará, Brazil. 
 
-My experience spans a range of technologies and platforms, including Cloud Computing (AWS, Azure, GCP, Databricks), ELT (Meltano, dbt, Airflow, PySpark), and DevOps (Docker, Kubernetes, Terraform). I excel in environments that require both strong analytical skills and the ability to communicate and collaborate effectively within teams.
+My main educational credential is a Ph.D. in Physics from the Federal University of Pará.
 
-I'm always open to connecting and discussing innovative solutions in data engineering, feel free to be in touch!
+My experience spans a range of technologies and platforms, with the strongest skills being:
+
+```yaml
+cloud_computing:
+  - AWS
+elt:
+  - Meltano
+  - dbt
+  - Sling
+  - dlt
+orchestration:
+  - Dagster
+devops:
+  - Docker
+  - Kubernetes
+  - Terraform 
+```
+
+I'm always open to connecting and discussing innovations in Data Engineering, Science, and Technology. Feel free to be in touch!

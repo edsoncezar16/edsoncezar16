@@ -22,8 +22,10 @@ devops:
   - Terraform 
 ```
 
-In particular, I am a community contributor to the Dagster open-source project, having contributed the following features:
+In particular, I am a community contributor to the Dagster open-source project, having contributed the following features/fixes:
 
 - [subset sling assets](https://github.com/dagster-io/dagster/pull/21390)
+- [default dagster meta via sling yaml](https://github.com/dagster-io/dagster/pull/21859)
+- [dlt resource failure aware materialization](https://github.com/dagster-io/dagster/pull/21856)
 
 I'm always open to connecting and discussing innovations in Data Engineering, Science, and Technology. Feel free to be in touch!

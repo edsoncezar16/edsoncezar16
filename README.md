@@ -28,5 +28,7 @@ In particular, I am a community contributor to the Dagster open-source project, 
 - [default dagster meta via sling yaml](https://github.com/dagster-io/dagster/pull/21859)
 - [dlt resource failure aware materialization](https://github.com/dagster-io/dagster/pull/21856)
 - [custom smtp user for email alerts](https://github.com/dagster-io/dagster/pull/21994)
+- [dlt assets metadata via translator](https://github.com/dagster-io/dagster/pull/22047)
+- [dlt assets partitions](https://github.com/dagster-io/dagster/pull/22000)
 
 I'm always open to connecting and discussing innovations in Data Engineering, Science, and Technology. Feel free to be in touch!

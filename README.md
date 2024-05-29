@@ -19,7 +19,8 @@ orchestration:
 devops:
   - Docker
   - Kubernetes
-  - Terraform 
+  - Terraform
+  - CI/CD
 ```
 
 In particular, I am a community contributor to the Dagster open-source project, having contributed the following features/fixes:

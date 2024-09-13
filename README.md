@@ -2,7 +2,9 @@
 
 I'm Edson Cezar Moraes Nogueira, a  Data Engineer based in Belém, Pará, Brazil. 
 
-My main educational credential is a Ph.D. in Physics from the Federal University of Pará. Currently, I am pursuing a Specialization in Data Engineering from PUC-Minas.
+My educational background is a Ph.D. in Physics from the Federal University of Pará.
+
+I also took a professional training in Python, Databases, Data & Analytics, and People Skills from Ada Tech, which helped me migrate to Data Engineering.
 
 My experience spans a range of technologies and platforms, with the strongest skills being:
 

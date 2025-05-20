@@ -17,8 +17,6 @@ elt:
   - dlt
 orchestration:
   - Dagster
-streaming:
-  - Apache Kafka
 devops:
   - Docker
   - Kubernetes

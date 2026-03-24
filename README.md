@@ -1,29 +1,17 @@
-# About 
+### Hey, I'm Edson 👋
 
-I'm Edson Cezar Moraes Nogueira, a  Data Engineer based in Belém, Pará, Brazil. 
+Founder & CEO at **[DataVillas](https://datavillas.com)** — Data Engineering & AI Services for small and medium businesses.
 
-My educational background is a Ph.D. in Physics from the Federal University of Pará.
+I help companies build enterprise-grade data infrastructure without the enterprise price tag. One senior engineer, AI-accelerated delivery.
 
-I am currently pursuing an MBA in Software Engineering at USP/Esalq.
+**What I work with:**
+AWS · Dagster · dbt · dlt · Terraform · Docker · Kubernetes · GitHub Actions · Python
 
-My experience spans a range of technologies and platforms, with the strongest skills being:
+**Open source:**
+Community contributor to [Dagster](https://github.com/dagster-io/dagster) with 8 merged PRs.
 
-```yaml
-cloud_computing:
-  - AWS
-elt:
-  - dbt
-  - Sling
-  - dlt
-orchestration:
-  - Dagster
-devops:
-  - Docker
-  - Kubernetes
-  - Terraform
-  - CI/CD
-```
+**Certifications:**
+AWS Solutions Architect – Associate
 
-In particular, I am a community contributor to the Dagster open-source project, with 8 merged Pull Requests.
-
-I'm always open to connecting and discussing innovations in Data Engineering, Science, and Technology. Feel free to be in touch!
+📍 Belém, Brazil · 🌐 Serving clients globally  
+🔗 [datavillas.com](https://datavillas.com) · [LinkedIn](https://www.linkedin.com/in/edson-c-m-nogueira/)
